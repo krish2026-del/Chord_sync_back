@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-multipart
-librosa
-numpy
+python-multipart
+opencv-python-headless
